@@ -6,3 +6,5 @@ dist/
 *.egg-info/
 .DS_Store
 .env
+TODOS.md
+sprint0-findings.md
